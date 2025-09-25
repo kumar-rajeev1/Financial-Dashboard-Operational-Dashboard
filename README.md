@@ -34,4 +34,5 @@ The Financial Dashboard provides a comprehensive view of the hospital’s financ
 
 
 
-# How to clone project
+# How to clone project Repo
+    https://github.com/kumar-rajeev1/SuperStore-Dashboard-Data-Analyst-Project-.git
